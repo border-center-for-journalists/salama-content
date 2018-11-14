@@ -1,0 +1,272 @@
+[
+  {
+    "language": "en_US",
+    "date": "2016-03-13 10:55 -0600",
+    "author": "author",
+    "description": "Encrypted phone calls",
+    "category": "digital security",
+    "published": true,
+    "title": "Encrypted phone calls",
+    "path": "calls"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 10:38 -0600",
+    "author": "author",
+    "description": "Chat encryption",
+    "category": "digital security",
+    "published": true,
+    "title": "Chat encryption",
+    "path": "chat"
+  },
+  {
+    "language": "en_US",
+    "date": "2019-11-13 16:24 -0600",
+    "author": "author",
+    "description": "copyright",
+    "category": "footer",
+    "published": true,
+    "title": "copyright",
+    "path": "copyright"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 11:18 -0600",
+    "author": "author",
+    "description": "Do you cover corruption?",
+    "category": "censorship Situations",
+    "published": true,
+    "title": "Do you cover corruption?",
+    "path": "corruption"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 11:55 -0600",
+    "author": "author",
+    "description": "Corruption and confidential information",
+    "category": "Censorship Situations",
+    "published": true,
+    "title": "Corruption and confidential information",
+    "path": "corruption_information"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 11:36 -0600",
+    "author": "author",
+    "description": "Do you cover crime or corruption?",
+    "category": "laboral security",
+    "published": true,
+    "title": "Do you cover crime or corruption?",
+    "path": "crime_corruption"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 08:22 -0600",
+    "author": "author",
+    "description": "Digital advices",
+    "category": "digital security",
+    "published": true,
+    "title": "Digital Security",
+    "path": "digital_security"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:56 -0600",
+    "author": "author",
+    "description": "Journalist Ethics",
+    "category": "professional Security",
+    "published": true,
+    "title": "Journalist Ethics",
+    "path": "etic"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-07 15:06 -0600",
+    "author": "Sandor B.",
+    "description": "Under this level of risk, damage to physical, psychological, legal or digital security can be severe or catastrophic",
+    "category": "others",
+    "published": true,
+    "title": "Extreme risk level",
+    "path": "extreme"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-07 15:20 -0600",
+    "author": "Sandor B.",
+    "description": "In high levels of risk, journalists may suffer serious physical, psychological, legal or digital damage.",
+    "category": "others",
+    "published": true,
+    "title": "High risk level",
+    "path": "high"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:52 -0600",
+    "author": "author",
+    "description": "You must plan your histories",
+    "category": "professional Security",
+    "published": true,
+    "title": "You must plan your histories",
+    "path": "information"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:01 -0600",
+    "author": "author",
+    "description": "Sensitive information must be encrypted",
+    "category": "digital security",
+    "published": true,
+    "title": "Sensitive information must be encrypted",
+    "path": "information_corruption_mail"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-07 15:32 -0600",
+    "author": "Sandor B.",
+    "description": "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks.",
+    "category": "others",
+    "published": true,
+    "title": "Low risk",
+    "path": "low"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 08:59 -0600",
+    "author": "author",
+    "description": "Mail encryption",
+    "category": "digital security",
+    "published": true,
+    "title": "Protect your information",
+    "path": "mail"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-07 15:32 -0600",
+    "author": "Sandor B.",
+    "description": "Insults, bad treatment, defamation campaigns, some cyber-attacks, are examples of these risks.",
+    "category": "others",
+    "published": true,
+    "title": "Moderate risk",
+    "path": "moderate"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 08:36 -0600",
+    "author": "author",
+    "description": "how to navigate anonymously",
+    "category": "digital security",
+    "published": true,
+    "title": "Secure Navigation",
+    "path": "navigation"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:48 -0600",
+    "author": "author",
+    "description": "A good communication is essential",
+    "category": "network Security",
+    "published": true,
+    "title": "A good communication is essential",
+    "path": "network"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 10:48 -0600",
+    "author": "author",
+    "description": "secure passwords",
+    "category": "digital security",
+    "published": true,
+    "title": "Secure passwords",
+    "path": "passwords"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:50 -0600",
+    "author": "author",
+    "description": "Planning methods",
+    "category": "professional Security",
+    "published": true,
+    "title": "Planning methods",
+    "path": "plan"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:32 -0600",
+    "author": "author",
+    "description": "Professional Situation",
+    "category": "professional Security",
+    "published": true,
+    "title": "Professional Situation",
+    "path": "professional"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:59 -0600",
+    "author": "author",
+    "description": "You must be prepared for handling sensitive information",
+    "category": "digital security",
+    "published": true,
+    "title": "You must be prepared for handling sensitive information",
+    "path": "sinformation"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 11:11 -0600",
+    "author": "author",
+    "description": "Attacks to journalists and bloggers",
+    "category": "laboral security",
+    "published": true,
+    "title": "Attacks to journalists and bloggers",
+    "path": "threat"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:25 -0600",
+    "author": "author",
+    "description": "Threat protocols",
+    "category": "laboral security",
+    "published": true,
+    "title": "Threat protocols",
+    "path": "threat_protocols"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:06 -0600",
+    "author": "author",
+    "description": "Do you cover violence?",
+    "category": "laboral security",
+    "published": true,
+    "title": "Do you cover violence?",
+    "path": "violence"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:14 -0600",
+    "author": "author",
+    "description": "Improve your communication",
+    "category": "network Security",
+    "published": true,
+    "title": "Improve your communication",
+    "path": "violence_boss"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 12:10 -0600",
+    "author": "author",
+    "description": "Planning for covering violence",
+    "category": "professional Security",
+    "published": true,
+    "title": "Planning for covering violence",
+    "path": "violence_plan"
+  },
+  {
+    "language": "en_US",
+    "date": "2016-03-13 11:24 -0600",
+    "author": "author",
+    "description": "Be prepared for dangerous zones",
+    "category": "laboral security",
+    "published": true,
+    "title": "Be prepared for dangerous zones",
+    "path": "zone_protocols"
+  }
+]

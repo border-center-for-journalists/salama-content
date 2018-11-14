@@ -1,0 +1,390 @@
+[
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "Quienes somos.",
+    "category": "otros",
+    "published": true,
+    "title": "ours",
+    "path": "ours"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "policy.",
+    "category": "otros",
+    "published": true,
+    "title": "Privacy Policy",
+    "path": "policy"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 21:51 -0500",
+    "published": true,
+    "description": "Abusos.",
+    "title": "Abusos",
+    "path": "2018-09-19-abusos"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 20:10 -0500",
+    "published": true,
+    "description": "Ambiente hostil.",
+    "title": "Ambiente hostil",
+    "path": "2018-09-19-ambiente-hostil"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 21:47 -0500",
+    "published": true,
+    "description": "Autocuidado.",
+    "title": "Autocuidado ",
+    "path": "2018-09-19-autocuidado"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 21:39 -0500",
+    "published": true,
+    "description": "Diversidad.",
+    "title": "Diversidad",
+    "path": "2018-09-19-diversidad"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 19:53 -0500",
+    "published": true,
+    "description": "Vulnerables.",
+    "title": "Vulnerables",
+    "path": "2018-09-19-vulnerables"
+  },
+  {
+    "language": "es_MX",
+    "date": "2018-09-19 19:47 -0500",
+    "published": true,
+    "description": "Mujeres.",
+    "title": "Mujeres",
+    "path": "2018-09-19-women"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 10:55 -0600",
+    "author": "author",
+    "description": "Llamas telefónicas cifradas",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Llamadas telefónicas cifradas",
+    "path": "calls"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 10:38 -0600",
+    "author": "author",
+    "description": "Chat cifrado",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Chat cifrado",
+    "path": "chat"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-11-13 16:24 -0600",
+    "author": "author",
+    "description": "copyright",
+    "category": "footer",
+    "published": true,
+    "title": "copyright",
+    "path": "copyright"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 11:18 -0600",
+    "author": "author",
+    "description": "¿Cubres notas de corrupción?",
+    "category": "situaciones de censura",
+    "published": true,
+    "title": "¿Cubres notas de corrupción?",
+    "path": "corruption"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 11:55 -0600",
+    "author": "author",
+    "description": "Corrupción e información confidencial",
+    "category": "seguridad laboral",
+    "published": true,
+    "title": "Corrupción e información confidencial",
+    "path": "corruption_information"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 11:36 -0600",
+    "author": "author",
+    "description": "¿Cubres notas de crimen o corrupción?",
+    "category": "seguridad laboral",
+    "published": true,
+    "title": "¿Cubres notas de crimen o corrupción?",
+    "path": "crime_corruption"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 08:32 -0600",
+    "author": "author",
+    "description": "Consejos sobre seguridad digital",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Seguridad Digital",
+    "path": "digital_security"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:55 -0600",
+    "author": "author",
+    "description": "Ética periodistica",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "Ética profesional",
+    "path": "etic"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 14:50 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, el daño a la integridad física, psicológica, legal o digital puede ser severo o catastrófico.",
+    "category": "otros",
+    "published": true,
+    "title": "Nivel de riesgo extremo",
+    "path": "extreme"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:14 -0600",
+    "author": "Sandor B.",
+    "description": "En estos niveles de riesgo, los periodistas pueden sufrir ataques con daños serios a su integridad física, psicológica, legal o digital.",
+    "category": "otros",
+    "published": true,
+    "title": "Nivel de riesgo alto",
+    "path": "high"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:52 -0600",
+    "author": "author",
+    "description": "Las historias deben ser revisadas",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "Las historias deben ser revisadas",
+    "path": "information"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:01 -0600",
+    "author": "author",
+    "description": "La información sensible debe ser cifrada",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "La información sensible debe ser cifrada",
+    "path": "information_corruption_mail"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "otros",
+    "published": true,
+    "title": "Nivel de riesgo bajo",
+    "path": "low"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 08:59 -0600",
+    "author": "author",
+    "description": "como cifrar tus cuentas de mail",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Protege tu información",
+    "path": "mail"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-07 15:25 -0600",
+    "author": "Sandor B.",
+    "description": "Los periodistas pueden sufrir ataques con daños moderados a su integridad física, psicológica, legal o digital.",
+    "category": "otros",
+    "published": true,
+    "title": "Nivel de riesgo moderado",
+    "path": "moderate"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 08:36 -0600",
+    "author": "author",
+    "description": "how to navigate anonymously",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Navegación segura",
+    "path": "navigation"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:48 -0600",
+    "author": "author",
+    "description": "La buena comunicación es esencial",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "La buena comunicación es esencial",
+    "path": "network"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "Quienes somos.",
+    "category": "otros",
+    "published": true,
+    "title": "Somos",
+    "path": "ours"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 10:48 -0600",
+    "author": "author",
+    "description": "Contraseñas seguras",
+    "category": "seguridad digital",
+    "published": true,
+    "title": "Contraseñas seguras",
+    "path": "passwords"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:50 -0600",
+    "author": "author",
+    "description": "Métodos de planeamiento",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "Métodos de planeamiento",
+    "path": "plan"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "politicas de privacidad.",
+    "category": "otros",
+    "published": true,
+    "title": "Politicas",
+    "path": "policy"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:32 -0600",
+    "author": "autor",
+    "description": "Situación profesional",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "Situación profesional",
+    "path": "professional"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:59 -0600",
+    "author": "author",
+    "description": "¿Estás listo para manejar información sensible?",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "¿Estás listo para manejar información sensible?",
+    "path": "sinformation"
+  },
+  {
+    "language": "es_MX",
+    "date": "2019-09-21 14:50 -0600",
+    "author": "a.",
+    "description": "Terminos y condiciones.",
+    "category": "otros",
+    "published": true,
+    "title": "Terminos",
+    "path": "terms"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 11:11 -0600",
+    "author": "author",
+    "description": "Ataques a periodistas y blogueros",
+    "category": "seguridad laboral",
+    "published": true,
+    "title": "Cómo prevenir ataques",
+    "path": "threat"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:25 -0600",
+    "author": "author",
+    "description": "Protocolos para  prevenir ataques",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "Protocolos para  prevenir ataques",
+    "path": "threat_protocols"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:07 -0600",
+    "author": "author",
+    "description": "¿Cubres hechos de violencia?",
+    "category": "seguridad profesional",
+    "published": true,
+    "title": "¿Cubres hechos de violencia?",
+    "path": "violence"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:15 -0600",
+    "author": "author",
+    "description": "Mejora tú comunicación",
+    "category": "seguridad de redes",
+    "published": true,
+    "title": "Mejora tú comunicación",
+    "path": "violence_boss"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 12:10 -0600",
+    "author": "author",
+    "description": "Plan para la cobertura de violencia",
+    "category": "seguridad laboral",
+    "published": true,
+    "title": "Plan para la cobertura de violencia",
+    "path": "violence_plan"
+  },
+  {
+    "language": "es_MX",
+    "date": "2016-03-13 11:24 -0600",
+    "author": "author",
+    "description": "¿Estás listo para visitar zonas peligrosas?",
+    "category": "seguridad laboral",
+    "published": true,
+    "title": "¿Estás listo para visitar zonas peligrosas?",
+    "path": "zone_protocols"
+  }
+]

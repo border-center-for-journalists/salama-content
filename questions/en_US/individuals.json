@@ -1,0 +1,449 @@
+{
+  "pages": [
+
+    {
+      "type": "double-column",
+      "questions":[
+        {
+          "score": true,
+          "name": "threat_individual",
+          "input": "radio",
+          "title": "Have you been threatened or suffered an agression as a journalist over the last year)",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Yes",
+              "value": 20
+            },
+            {
+              "option": "No",
+              "value": 0
+            }
+          ],
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "threat_collegues_in",
+          "input": "radio",
+          "title": "Have colleagues in your organization been threatened or suffered an agression as journalist over the last year?",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Yes",
+              "value": 20
+            },
+            {
+              "option": "No",
+              "value": 0
+            }
+          ],
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "threat_collegues_out",
+          "input": "radio",
+          "title": "Have other colleagues in the area been threatened or suffered an agression as journalists over the last year?",
+          "instruction":"",
+          "options":[
+            {
+              "option": "Yes",
+              "value": 20
+            },
+            {
+              "option": "No",
+              "value": 0
+            }
+          ],
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Security Situation",
+      "instruction":"Please check the proper boxes",
+      "options":[
+        {
+          "option": "Never",
+          "value" : "1"
+        },
+        {
+          "option": "Sometimes",
+          "value" : "2"
+        },
+        {
+          "option": "Regularly",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Often",
+          "value" : "4"
+        },
+
+        {
+          "option": "Very often",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "security_police",
+          "title": "Do you cover crime?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "security_corruption",
+          "title": "Do you cover corruption?",
+          "required":true
+        },
+
+        {
+          "score": true,
+          "name": "security_violence",
+          "title":"Do you cover violent incidents? (Example: murders, riots, beatings)",
+          "required":true
+        },
+
+        {
+          "score": true,
+          "name": "security_zone",
+          "title": "How often do you cover dangerous zones?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "security_information",
+          "title":"How often do you receive confidential information?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Censorship Situation",
+      "instruction":"Please check the proper boxes",
+      "options":[
+        {
+          "option": "Never",
+          "value" : "1"
+        },
+        {
+          "option": "Sometimes",
+          "value" : "2"
+        },
+        {
+          "option": "Regularly",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Often",
+          "value" : "4"
+        },
+
+        {
+          "option": "Very often",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "censorship_out",
+          "title": "Do you receive external pressures to publish or not publish information?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "censorship_in",
+          "title": "Do you receive internal pressures to publish or not publish information?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "censorship_auto",
+          "title": "Do you practice self-censorship?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Professional situation ",
+      "instruction":"Please check the proper box",
+      "options":[
+        {
+          "option": "Very often",
+          "value" : "1"
+        },
+        {
+          "option": "Often",
+          "value" : "2"
+        },
+        {
+          "option": "Regularly",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Sometimes",
+          "value" : "4"
+        },
+
+        {
+          "option": "Never",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "profesional_plan",
+          "title": "Do you plan your stories?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_information",
+          "title": "Do you verify your information?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_etic",
+          "title": "Do you use ethical guidelines?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "profesional_protocols",
+          "title": "Do you use security protocols?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Support networks",
+      "instruction":"Please check the proper boxes",
+      "options":[
+        {
+          "option": "Excellent",
+          "value" : "1"
+        },
+        {
+          "option": "Good",
+          "value" : "2"
+        },
+        {
+          "option": "Just fair",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Bad",
+          "value" : "4"
+        },
+
+        {
+          "option": "Very bad",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "network_boss",
+          "title": "How is communication with your bosses?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "network_sub",
+          "title": "How is communication with the people you oversee?",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "network_collegues",
+          "title": "How is communication with your colleagues inside and outside your organization?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Labor security ",
+      "instruction":"Analyze your condition at work. Please check the proper boxes",
+      "options":[
+        {
+          "option": "Excellent",
+          "value" : "1"
+        },
+        {
+          "option": "Good",
+          "value" : "2"
+        },
+        {
+          "option": "Just fair",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Bad",
+          "value" : "4"
+        },
+
+        {
+          "option": "Very bad",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "laboral_condition",
+          "title": "Your labor conditions (salary, benefits) are...",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "laboral_will",
+          "title": "How are your media organization's policy and actions to increase your security?",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type":"table-multiradio",
+      "title": "Digital security",
+      "instruction":"Please rank your skills in these digital security tools",
+      "options":[
+        {
+          "option": "Master",
+          "value" : "1"
+        },
+        {
+          "option": "Advanced",
+          "value" : "2"
+        },
+        {
+          "option": "Intermediate",
+          "value" : "3"
+        },
+       
+        {
+          "option": "Basic",
+          "value" : "4"
+        },
+
+        {
+          "option": "None",
+          "value" : "5"
+        }
+      ],
+      "questions":[
+        {
+          "score": true,
+          "name": "digital_navigation",
+          "title": "Anonymous navigation (TOR)",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_mail",
+          "title": "Encrypted email (PGP, Protonmail, Mailvelope, Hushmail)",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_chat",
+          "title": "Encrypted chat (OTR+Pidgin, OTR+Adium, Cryptocat, etc)",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_passwords",
+          "title": "Strong passwords",
+          "required":true
+        },
+        {
+          "score": true,
+          "name": "digital_calls",
+          "title": "Encrypted phone calls (RedPhone, Signal, Ostel)",
+          "required":true
+        }
+      ]
+    },
+    {
+      "type": "double-column",
+      "optional":"true",
+      "legend-optional":"Would you like to improve this evaluation sending us more data?",
+      "questions":[
+        {
+         "name": "personalized_training",
+         "input":"checkbox",
+         "title": "Personalized training",
+         "instruction":"Yes, I would like to received personalized training."
+        },
+        {
+          "name": "email",
+          "input": "text",
+          "title": "Email",
+          "instruction": "Please write your email",
+          "placeholder": "Write your mail",
+          "required":true
+        },
+        {
+          "name": "medium",
+          "input": "text",
+          "title": "Media Organization",
+          "instruction": "Please write the name of your media organization (if you are a freelancer, please write it)",
+          "placeholder": "Write your answer",
+          "required":true
+        },
+        {
+          "name": "location",
+          "input": "text",
+          "title": "District (Municipality) and Province (Department)",
+          "instruction": "Please write the name of your municipality (district) and Province. For example: Mahmudiya, Baghdad",
+          "placeholder": "Write your answer",
+          "required":true
+        },
+        {
+          "name":  "job",
+          "input": "multi-checkbox",
+          "title": "Areas of Work",
+          "instruction": "In the current security environment, all members of a media organization share the same level of risk. However, journalists in one areas may face more risks than others. Please select your area or areas of work in your media organization",
+          "options":[
+            {
+              "option": "Production and Circulation",
+              "value": "Production and Circulation"
+            },
+            {
+              "option": "Community Manager",
+              "value": "Community Manager"
+            },
+            {
+              "option": "Edition",
+              "value": "Edition"
+            },
+            {
+              "option": "Direction or Management",
+              "value": "Direction or Management"
+            },
+            {
+              "option": "Reporter, Photographer or Blogger",
+              "value": "Reporter, Photographer or Blogger"
+            }
+          ]
+        }
+      ]      
+    }
+  ]
+}
